@@ -1,4 +1,5 @@
 *.pyc
 *.pyo
 test.py
+*.xml
 *test.txt
